@@ -1,6 +1,6 @@
 ### Hi, I'm Ramon!
 
-- 🌱 I’m currently learning: Machine Learning with R and dataviz with Tableau and Power BI
+- 🌱 I’m currently learning: Machine Learning with R and dataviz with Tableau and Power BI :)
 
 <div align="center">
   <a href="https://github.com/roldanramon">
