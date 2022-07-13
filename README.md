@@ -1,11 +1,13 @@
 ### Hi, I'm Ramon!
 
-- 🌱 I’m currently learning: Machine Learning with R and dataviz with Tableau and Power BI :)
+- 🌱 I’m currently learning: Machine Learning with tidymodels framework and dataviz with shiny and flexdashboard.
 
 <div align="center">
-  <a href="https://github.com/roldanramon">
-  <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api?username=roldanramon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roldanramon&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/RoldanRamon/">
+  
+  <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api?username=RoldanRamon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoldanRamon&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -31,6 +33,8 @@
   <a href="https://www.linkedin.com/in/ramon-roldan-de-lara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541984588355" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>   
+  </a>
+    <a href="https://t.me/Roldan_Ramon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>  
  </div>
   
