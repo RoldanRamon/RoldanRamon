@@ -1,6 +1,6 @@
-### Hi, I'm Ramon!
+### Hi, I'm Ramon! :smile:
 
-- 🌱 I’m currently learning: Machine Learning with tidymodels framework and dataviz with shiny and flexdashboard.
+- I’m currently working focus on apply Data Science in Procurement area to aggregate value, the tools main tools tha i use: Machine Learning with tidymodels framework and dataviz with shiny and flexdashboard, Power BI, SQL, Tableau, Git and VBA.
 
 <div align="center">
   <a href="https://github.com/RoldanRamon/">
