@@ -1,13 +1,13 @@
 ### Hi, I'm Ramon! :smile:
 
-- I’m currently working focus on apply Data Science to aggregate value, the tools main tools tha i use: Machine Learning with tidymodels framework and dataviz with shiny and flexdashboard, Power BI, SQL, Tableau, Git and VBA.
+- I'm currently focused on applying Data Science to drive business value. Main tools that I use: Machine Learning with tidymodels framework, dataviz with Shiny and flexdashboard, Power BI, SQL, Tableau, Git and VBA.
 
 <div align="center">
   <a href="https://github.com/RoldanRamon/">
   
-  <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api?username=RoldanRamon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="380" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoldanRamon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoldanRamon&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"  width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoldanRamon&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -40,4 +40,3 @@
     <a href="https://t.me/Roldan_Ramon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>  
  </div>
-  
